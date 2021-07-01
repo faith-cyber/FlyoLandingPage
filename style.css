@@ -257,7 +257,7 @@ input[type="submit"]{
   opacity: 0.4;
 }
 
-/*----footer----*/
+/*------Footer-----*/
 
 footer{
   background: var(--footer-bg);
@@ -335,7 +335,13 @@ footer-contact img{
   font-size: 30px;
 }
 
-/*----Media Query----*/
+.attribution{
+  font-size: 16px;
+  text-align: center;
+  font-style: italic;
+}
+
+/*------Media Query------*/
 
 @media (max-width: 768px) {
   html {
