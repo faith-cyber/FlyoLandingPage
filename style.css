@@ -339,12 +339,9 @@ footer-contact img{
   font-size: 16px;
   text-align: center;
   font-style: italic;
-  color: hsl(228, 45%, 44%);
 }
 
-.a{
-  color: hsl(228, 45%, 44%);
-}
+
 /*----Media Query----*/
 
 @media (max-width: 768px) {
