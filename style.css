@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap');
 
-/* Global styles */
+/*----Global styles----*/
 
 *, 
 *::after,
@@ -57,7 +57,7 @@ main{
   padding-bottom: 200px;
 }
 
-/*----nav styles----*/
+/*----Nav styles----*/
 
 .nav{
   width: 100%;
@@ -115,7 +115,7 @@ main{
   border:none;
 }
 
-/*----features----*/
+/*----Feature section----*/
 
 .features{
   width: 100%;
@@ -134,7 +134,7 @@ main{
   margin: 25px 0 12px 0;
 }
 
-/*----more description----*/
+/*----More description----*/
 
 .extra-description{
   display: flex;
@@ -366,7 +366,7 @@ footer-contact img{
     height: 24px;
   }
 
-  /*----hero section----*/
+  /*---hero section---*/
   .hero{
     background: var(--intro-email-bg) url(images/bg-curvy-desktop.svg) center no-repeat;
   background-size: 100% 130px;
@@ -393,7 +393,7 @@ footer-contact img{
     padding: 18px 0;
   }
 
-  /*----features section----*/
+  /*---Feature section---*/
   .features {
     grid-template-columns: 1fr;
     gap: 87px 0px;
@@ -423,7 +423,7 @@ footer-contact img{
     left: 4px;
   }
 
-  /*----sign in----*/
+  /*----Sign in----*/
   .sign-in {
     padding: 40px 25px;
     bottom: -175px;
@@ -438,7 +438,7 @@ footer-contact img{
     margin: 0px 0px 25px 0px;
   }
 
-  /*----footer----*/
+  /*----Footer----*/
   footer {
     grid-template-columns: 1fr;
     padding: 280px 27px 42px 27px;
